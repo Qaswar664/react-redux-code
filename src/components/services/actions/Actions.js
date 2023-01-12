@@ -7,6 +7,9 @@ export const addToCart=(data)=>{
         data:data
     }
 }
+
+
+
 // Remove To Card Function
 export const removeToCart=()=>{
     console.log('remove to card');
